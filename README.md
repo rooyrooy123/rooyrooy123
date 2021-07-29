@@ -1,6 +1,8 @@
 ### Hi there 👋
 Twitter:@ROOYROOY10
-ROY Parkourのオーナー
+ROY Parkourの代表兼開発者
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rooyrooy123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
